@@ -1,0 +1,23 @@
+{
+  "name": "deploy-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imedved/deploy-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/imedved/deploy-test/issues"
+  },
+  "homepage": "https://github.com/imedved/deploy-test#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
